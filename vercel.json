@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/notify-upcoming-shifts",
+      "schedule": "0 18 * * *"
+    }
+  ]
+}
